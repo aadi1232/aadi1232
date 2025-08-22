@@ -3,7 +3,7 @@
 - 👀 I’m interested in full-stack web development, game development, and open-source contributions.
 - 🌱 I’m currently learning advanced JavaScript frameworks and exploring game development with Godot.
 - 💞️ I’m looking to collaborate on innovative web applications and engaging game projects.
-- 📫 How to reach me: [aadi01](https://aadi01.me)
+- 📫 How to reach me: [aadi01](https://blogs.aadi01.me)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy creating immersive 2D games and have a passion for storytelling through interactive media.
 
