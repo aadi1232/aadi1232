@@ -146,77 +146,15 @@ const aadi = {
 
 ---
 
-<div align="center">
+ 
+ 
+ 
 
-## 📊 GitHub Analytics
+ 
+ 
 
-<!-- GitHub Stats with Animation -->
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aadi1232&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aadi1232&theme=tokyonight&hide_border=true&background=1F222E&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
-</p>
-
-<!-- Most Used Languages -->
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi1232&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=36BCF7&text_color=ffffff&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=aadi1232&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=36BCF7&text_color=ffffff&layout=compact" alt="Wakatime Stats" />
-</p>
-
-<!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aadi1232&custom_title=Contribution%20Graph&bg_color=1F222E&color=36BCF7&line=36BCF7&point=FFFFFF&area_color=36BCF7&area=true&hide_border=true" alt="Contribution Graph" />
-
-<!-- 3D Contribution Calendar -->
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=aadi1232&theme=tokyonight&bg_color=1F222E&title_color=36BCF7" alt="3D Contribution Graph" width="98%" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=aadi1232&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Stats
-
-<!-- Detailed Contribution Stats -->
-<img src="https://github-contributor-stats.vercel.app/api?username=aadi1232&limit=5&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=36BCF7&text_color=ffffff" alt="Top Contributed Repos" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Current Year Highlights (2025)
-
-<!-- GitHub Year Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=aadi1232&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&count_private=true&include_all_commits=true" alt="2025 Stats" width="98%" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadi1232/aadi1232/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadi1232/aadi1232/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aadi1232/aadi1232/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
+ 
+ 
 
 <div align="center">
 
