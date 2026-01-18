@@ -167,28 +167,7 @@ const aadi = {
   </tr>
 </table>
 
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aadi1232&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=36BCF7&icon_color=36BCF7&text_color=fff" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadi1232&theme=tokyonight&hide_border=true&background=1F222E&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi1232&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=36BCF7&text_color=fff" alt="Top Languages" />
-</p>
-
-</div>
-
----
-
+ 
 <div align="center">
 
 ## 🏆 Achievements
